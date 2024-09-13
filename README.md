@@ -1,3 +1,3 @@
-# video-stream
+# Netflix-Clone
 
-Link - https://anamika-dwivedi.github.io/video-stream/
+Link =  https://anamika-dwivedi.github.io/video-streaming/
